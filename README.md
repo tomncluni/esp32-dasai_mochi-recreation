@@ -8,4 +8,4 @@ There are two versions of the code available, one which loops the idle animation
 Inspired by the work of [upiir](https://github.com/upiir/esp32s3_oled_dasai_mochi) and utilising animations from [watcher-mochi](https://github.com/pham-tuan-binh/watcher-mochi)
 
 [XIAO esp32-s3](https://www.aliexpress.com/item/1005007341749305.html?aff_fcid=887a48385f9b4c30a4038cf75726926c-1783194485856-01531-_om3a6cb&tt=CPS_NORMAL&aff_fsk=_om3a6cb&aff_platform=shareComponent-detail&sk=_om3a6cb&aff_trace_key=887a48385f9b4c30a4038cf75726926c-1783194485856-01531-_om3a6cb&terminal_id=b1dca2215fe44c28b8eb6f713833e791&afSmartRedirect=y)\
-[2.42" OLED Display](https://s.click.aliexpress.com/e/_DFdMoTh)\
+[2.42" OLED Display](https://s.click.aliexpress.com/e/_DFdMoTh)
