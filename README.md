@@ -1,4 +1,4 @@
-# esp32-dasai_mochi-recreation
+# ESP32-S3 Dasai Mochi
 A set of code preloaded with animations to replicate a Dasai Mochi with an esp32 and an OLED screen.
 
 The [Dasai Mochi](https://dasai.com.au) is a small desktop/dashboard buddy. 
